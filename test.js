@@ -5,4 +5,4 @@ x('kondrad')
 function y (car){
     console.log(car)
 }
-y('BMW e46')
+y('BMW e60')
