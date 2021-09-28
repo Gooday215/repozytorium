@@ -7,3 +7,4 @@ function y (car){
 }
 y('BMW e60')
 // nie wytrzymie z tym 
+//rdergesrfe
